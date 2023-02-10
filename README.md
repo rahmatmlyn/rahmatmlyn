@@ -12,15 +12,12 @@ Rahmat, pengen jago kayak najmi
 ### Tech Stack 👨🏻‍💻
 
 <span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30" title="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" title="JavaScript" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30" title="TypeScript" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" height="30" title="Next.js" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" title="Node.js" />
-  <img src="https://img1.pnghut.com/6/10/20/bmgTwW0vFn/text-brand-symbol-react-number.jpg" height="30" title="Express.js" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="30" title="GNU/Linux" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="30" title="MongoDB" />
+  <img src="https://en.wikipedia.org/wiki/File:Ruby_On_Rails_Logo.svg#/media/File:Ruby_On_Rails_Logo.svg" height="30" title="Ruby On Rails" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.pngg" height="30" title="C Sharp" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="30" title="PHP" />
+  <img src="https://id.wikipedia.org/wiki/Berkas:Postgresql_elephant.svg#/media/Berkas:Postgresql_elephant.svg" height="30" title="PostgreSql" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*KTDZHTVaVbvbyhIf2PmBAw.png" height="30" title="Microsoft Sql Server" />
 </span>
 <h2></h2><br>
 
