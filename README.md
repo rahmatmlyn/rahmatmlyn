@@ -1,11 +1,11 @@
 <br/>
-<img src="https://c.tenor.com/RvhWswweSakAAAAC/miitens-cat-cat-fire.gif"  align="right" width="350"/> 
+
 
 ## Hello Yall
 
 
 <p align="justify">
-Rahmat, pengen jago kayak najmi <a href="https://naohr.vercel.app/"><b>Me</b></a> up.
+Rahmat, pengen jago kayak najmi
 <br>
 </p>
 
@@ -30,11 +30,11 @@ Rahmat, pengen jago kayak najmi <a href="https://naohr.vercel.app/"><b>Me</b></a
 <h2></h2><br>
 <p align="center">
   <samp>
-	<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=NAoHR&theme=tokyonight"/>
+	<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=rahmatmlyn&theme=tokyonight"/>
 	<br/>e
-	<img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=naohr&count_private=true&theme=tokyonight">
+	<img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatmlyn&count_private=true&theme=tokyonight">
 	<br/>
-	<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=naohr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+	<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=rahmatmlyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   </samp>
 </p>
 </details>
