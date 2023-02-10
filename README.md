@@ -19,7 +19,6 @@ Rahmat, pengen jago kayak najmi
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" height="30" title="PostgreSql" />
   <img src="https://miro.medium.com/max/402/1*KTDZHTVaVbvbyhIf2PmBAw.png" height="40" title="Microsoft Sql Server" />
 </span>
-<h2></h2><br>
 
 <details align="center">
 <summary> &#x2BC7;</summary>
