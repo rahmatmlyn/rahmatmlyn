@@ -7,7 +7,6 @@
 <p align="justify">
 Rahmat, pengen jago kayak najmi <a href="https://naohr.vercel.app/"><b>Me</b></a> up.
 <br>
-<img src="https://komarev.com/ghpvc/?username=naohr&label=Profile%20views&color=0e75b6&style=flat" alt="naohr" />
 </p>
 
 ### Tech Stack 👨🏻‍💻
