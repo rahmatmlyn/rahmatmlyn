@@ -20,9 +20,6 @@ Rahmat, pengen jago kayak najmi
   <img src="https://miro.medium.com/max/402/1*KTDZHTVaVbvbyhIf2PmBAw.png" height="40" title="Microsoft Sql Server" />
 </span>
 
-<details align="center">
-<summary> &#x2BC7;</summary>
-
 <h2></h2><br>
 <p align="center">
   <samp>
