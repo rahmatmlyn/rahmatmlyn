@@ -13,7 +13,7 @@ Rahmat, pengen jago kayak najmi
 
 <span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" title="JavaScript" />
-  <img src="https://en.wikipedia.org/wiki/File:Ruby_On_Rails_Logo.svg#/media/File:Ruby_On_Rails_Logo.svg" height="30" title="Ruby On Rails" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/120px-Ruby_On_Rails_Logo.svg.png" height="30" title="RubyOnRails" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.pngg" height="30" title="C Sharp" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="30" title="PHP" />
   <img src="https://id.wikipedia.org/wiki/Berkas:Postgresql_elephant.svg#/media/Berkas:Postgresql_elephant.svg" height="30" title="PostgreSql" />
