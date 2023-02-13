@@ -5,7 +5,7 @@
 
 
 <p align="justify">
-Rahmat, pengen jago kayak Najmi dan Chiko (pengennya)
+Rahmat, pengen jago kayak Najmi sama Chiko (pengennya)
 <br>
 <img src="https://komarev.com/ghpvc/?username=rahmatmlyn&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatmlyn" />
 </p>
