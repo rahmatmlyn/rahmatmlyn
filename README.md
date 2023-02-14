@@ -17,7 +17,7 @@ Rahmat, pengen jago kayak Najmi sama Chiko (pengennya)
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/120px-Ruby_On_Rails_Logo.svg.png" height="30" title="RubyOnRails" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" height="30" title="C Sharp" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="30" title="PHP" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" height="30" title="PostgreSql" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" height="25" title="PostgreSql" />
   <img src="https://miro.medium.com/max/402/1*KTDZHTVaVbvbyhIf2PmBAw.png" height="40" title="Microsoft Sql Server" />
 </span>
 
@@ -25,7 +25,7 @@ Rahmat, pengen jago kayak Najmi sama Chiko (pengennya)
 <p align="center">
   <samp>
 	<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=rahmatmlyn&theme=tokyonight"/>
-	<br/>e
+	<br/>
 	<img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatmlyn&count_private=true&theme=tokyonight">
 	<br/>
 	<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=rahmatmlyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
