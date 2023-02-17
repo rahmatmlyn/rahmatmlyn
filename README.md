@@ -5,7 +5,7 @@
 
 
 <p align="justify">
-Rahmat, pengen jago kayak Najmi sama Chiko (pengennya) sama pengen jago jadi backend
+Rahmat, pengen jago kayak Najmi sama Chiko (pengennya) sama pengen jago jadi backend (Cita-Cita)
 <br>
 <img src="https://komarev.com/ghpvc/?username=rahmatmlyn&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatmlyn" />
 </p>
