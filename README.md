@@ -5,7 +5,7 @@
 
 
 <p align="justify">
-Rahmat, pengen jago kayak Najmi sama Chiko (pengennya) tapi tetep jagoan yang laen
+I'm Rahmat, seseorang yang ingin mengejar mimpinya dan ambisinya
 <br>
 <img src="https://komarev.com/ghpvc/?username=rahmatmlyn&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatmlyn" />
 </p>
