@@ -28,7 +28,6 @@ I'm Rahmat, seseorang yang ingin mengejar mimpinya dan ambisinya
 	<br/>
 	<img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatmlyn&count_private=true&theme=tokyonight">
 	<br/>
-	<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=rahmatmlyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   </samp>
 </p>
 </details>
