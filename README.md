@@ -5,7 +5,7 @@
 
 
 <p align="justify">
-I'm Rahmat, seseorang yang ingin mengejar mimpinya dan ambisinya
+Saya Rahmat, seseorang yang ingin mengejar mimpi dan ambisinya
 <br>
 <img src="https://komarev.com/ghpvc/?username=rahmatmlyn&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatmlyn" />
 </p>
